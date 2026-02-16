@@ -1,6 +1,5 @@
 # 3-2-Exercises
 ## Learned how to: 
-- Practice creating code for a word problem
 - Use shorthand operators
 - Use math functions, addition +, multiplication *, and division /
 - Accumulate value of a variable using += and /=
